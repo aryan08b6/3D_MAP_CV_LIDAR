@@ -1,0 +1,5 @@
+BAUDRATE: 115200
+CAM_ID: 0
+CALIBRATION: [{pixel: [300, 240], angles: [0, 50]}, {pixel: [400, 240], angles: [
+      0, 50]}, {pixel: [500, 240], angles: [0, 50]}, {pixel: [600, 240], angles: [
+      0, 50]}, {pixel: [700, 240], angles: [0, 50]}]
